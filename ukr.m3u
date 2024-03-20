@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:0,xteve.xml
+#EXTVLCOPT:network-caching=1000
+http://88.88.88.5:32768/xmltv/xteve.xml
+#EXTINF:0,88.88.88.5://32768
+#EXTVLCOPT:network-caching=1000
+88.88.88.5:32768
+#EXTINF:0,88.88.88.5://32768
+#EXTVLCOPT:network-caching=1000
+88.88.88.5:32768
+#EXTINF:0,Pershyi #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a068
+#EXTINF:0,Rada TV #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a07b
+#EXTINF:0,1+1
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a06d
+#EXTINF:0,Suspilne Kultura
+#EXTVLCOPT:network-caching=1000
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:0,ICTV #EXTVLCOPT:network-caching=1000
+http://91.210.251.166:4504/udp/239.0.2.21:4000
+#EXTINF:0,STB
+#EXTVLCOPT:network-caching=1000
+http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8
+#EXTINF:0,Inter
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a05g
+#EXTINF:0,UNIAN TV
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a06s
+#EXTINF:0,Bigudi
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a06h
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://91.210.251.166:4535/udp/239.0.2.74:4000
+#EXTINF:0,Novyi Kanal #EXTVLCOPT:network-caching=1000
+rtmp://93.189.60.202//935
+#EXTINF:0,TET #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a06f
+#EXTINF:0,2+2 #EXTVLCOPT:network-caching=1000
+http://185.235.187.10:8888/play/2plus2/index.m3u8
+#EXTINF:0,M1 #EXTVLCOPT:network-caching=1000
+http://185.235.187.11:8888/play/m1/index.m3u8
+#EXTINF:0,NTN
+#EXTVLCOPT:network-caching=1000
+http://185.235.187.11:8888/play/ntn/index.m3u8
+#EXTINF:0,Mega
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a05k
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.235.187.11:8888/play/a00t/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a06x
+#EXTINF:0,1+1 #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a00s
+#EXTINF:0,ICTV2
+#EXTVLCOPT:network-caching=1000
+http://46.18.107.105:9999/channel/n5ef91f61/index.mpeg?q=34f3e508660e39f2f68068dd1c8f4604
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.235.187.11:8888/play/a039/index.m3u8
+#EXTINF:0,K1
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a05m
+#EXTINF:0,K2
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a05o
+#EXTINF:0,Zoom
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a05q
+#EXTINF:0,Priamyi #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a061
+#EXTINF:0,Espreso TV #EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a066
+#EXTINF:0,XSport #EXTVLCOPT:network-caching=1000
+http://91.210.251.166:4858/udp/239.0.2.89:4000
+#EXTINF:0,Enter-Film
+#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a078
+#EXTINF:0,Piksel TV
+#EXTVLCOPT:network-caching=1000
+https://ext.cdn.nashnet.tv/228.0.0.8/index.m3u8
+#EXTINF:0,5 Kanal
+#EXTVLCOPT:network-caching=1000
+http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://149.5.17.34:20041/play/a015
+#EXTINF:0,Comedy Central Ukraine #EXTVLCOPT:network-caching=1000
+http://91.210.251.166:4550/udp/239.0.2.30:4000
+#EXTINF:0,Kvartal TV #EXTVLCOPT:network-caching=1000
+rtmp://93.189.60.202//932
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:0,24 #EXTVLCOPT:network-caching=1000
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://91.210.251.166:4582/udp/239.0.2.104:4000
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+rtmp://93.189.60.202//1040
+#EXTINF:0,FREE#EXTVLCOPT:network-caching=1000
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0,1 Odessa #EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:0,34 Kanal #EXTVLCOPT:network-caching=1000
+https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:0,7 Kanal
+#EXTVLCOPT:network-caching=1000
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:0,A1 Odessa
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:0,Arhat TB
+#EXTVLCOPT:network-caching=1000
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:0,ATR #EXTVLCOPT:network-caching=1000
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0,BamBarBia TV
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:0,BTB #EXTVLCOPT:network-caching=1000
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:0,Che Pe Info #EXTVLCOPT:network-caching=1000
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:0,Chernivtsi Promin
+#EXTVLCOPT:network-caching=1000
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:0,CNL Europa #EXTVLCOPT:network-caching=1000
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:0,Duma TV
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:0,GIT
+#EXTVLCOPT:network-caching=1000
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:0,GTV
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:0,HTK
+#EXTVLCOPT:network-caching=1000
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:0,ID Fashion
+#EXTVLCOPT:network-caching=1000
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+#EXTINF:0,Izmail TV #EXTVLCOPT:network-caching=1000
+https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:0,Kratu #EXTVLCOPT:network-caching=1000
+https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
+#EXTINF:0,Lale #EXTVLCOPT:network-caching=1000
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0,M2 #EXTVLCOPT:network-caching=1000
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0,NTA
+#EXTVLCOPT:network-caching=1000
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:0,Olvia Sat Odessa
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:0,Pershiy Zakhidniy #EXTVLCOPT:network-caching=1000
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0,Perviy Delovoy
+#EXTVLCOPT:network-caching=1000
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:0,Perviy Gorodskoy Krivoy
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:0,Perviy Gorodskoy Odessa
+#EXTVLCOPT:network-caching=1000
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:0,Pravda TYT
+#EXTVLCOPT:network-caching=1000
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0,Pryamyi
+#EXTVLCOPT:network-caching=1000
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:0,Radio Suite
+#EXTVLCOPT:network-caching=1000
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:0,Rudana
+#EXTVLCOPT:network-caching=1000
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:0,Simon #EXTVLCOPT:network-caching=1000
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:0,SK 1 #EXTVLCOPT:network-caching=1000
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:0,Svarogichi
+#EXTVLCOPT:network-caching=1000
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:0,TBN
+#EXTVLCOPT:network-caching=1000
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:0,TIS TV #EXTVLCOPT:network-caching=1000
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:0,Treti Cifrovoj #EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:0,Trofey #EXTVLCOPT:network-caching=1000
+https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:0,TV 5 Zaporozhye #EXTVLCOPT:network-caching=1000
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:0,TVA Czernowitz #EXTVLCOPT:network-caching=1000
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0,Yuzhnaya Volna
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:0,Zdorovood TV Odessa #EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:0,Z Zaporozhye
+#EXTVLCOPT:network-caching=1000
+https://stream.ztv.zp.ua/hls/live.m3u8
